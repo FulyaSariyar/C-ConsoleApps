@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarakterASCII", "KarakterASCII\KarakterASCII.csproj", "{7B668002-D67E-45A6-8742-7ECC2F923AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizideTekrarlananElemanlariSilme", "DizideTekrarlananElemanlariSilme\DizideTekrarlananElemanlariSilme.csproj", "{2789006D-B2E1-4825-8940-721169CE03CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DizideTekrarlananElemanlariSilme", "DizideTekrarlananElemanlariSilme\DizideTekrarlananElemanlariSilme.csproj", "{2789006D-B2E1-4825-8940-721169CE03CC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApps", "ConsoleApps", "{FAA78B00-3709-4F53-8B9E-A28CF26D25BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VucutKitleEndeksiHesapla", "VucutKitleEndeksiHesapla\VucutKitleEndeksiHesapla.csproj", "{03666A63-623F-4FD9-A5EA-F121FC298530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{2789006D-B2E1-4825-8940-721169CE03CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2789006D-B2E1-4825-8940-721169CE03CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2789006D-B2E1-4825-8940-721169CE03CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03666A63-623F-4FD9-A5EA-F121FC298530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03666A63-623F-4FD9-A5EA-F121FC298530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03666A63-623F-4FD9-A5EA-F121FC298530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03666A63-623F-4FD9-A5EA-F121FC298530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
