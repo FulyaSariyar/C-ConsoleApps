@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApps", "ConsoleApps"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VucutKitleEndeksiHesapla", "VucutKitleEndeksiHesapla\VucutKitleEndeksiHesapla.csproj", "{03666A63-623F-4FD9-A5EA-F121FC298530}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonNumarasiKontrol", "TelefonNumarasiKontrol\TelefonNumarasiKontrol.csproj", "{B0FB5FDA-B823-47E8-B733-EC6BF9BAC16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{03666A63-623F-4FD9-A5EA-F121FC298530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03666A63-623F-4FD9-A5EA-F121FC298530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03666A63-623F-4FD9-A5EA-F121FC298530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FB5FDA-B823-47E8-B733-EC6BF9BAC16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FB5FDA-B823-47E8-B733-EC6BF9BAC16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FB5FDA-B823-47E8-B733-EC6BF9BAC16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FB5FDA-B823-47E8-B733-EC6BF9BAC16A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
