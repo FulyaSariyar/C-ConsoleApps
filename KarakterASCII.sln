@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonNumarasiKontrol", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BölmeOperatoruKullanmadanBolmeYapma", "BölmeOperatoruKullanmadanBolmeYapma\BölmeOperatoruKullanmadanBolmeYapma.csproj", "{2E7A6891-56E2-4014-AF8D-65A1E643501C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabloDersProgrami", "TabloDersProgrami\TabloDersProgrami.csproj", "{A3D38F88-19E2-473D-8ABF-28BE0B82E1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirencBulma(Seri-Paralel)", "DirencBulma(Seri-Paralel)\DirencBulma(Seri-Paralel).csproj", "{8214D179-A3D9-4643-BDC0-40C3671247BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,14 @@ Global
 		{2E7A6891-56E2-4014-AF8D-65A1E643501C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7A6891-56E2-4014-AF8D-65A1E643501C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7A6891-56E2-4014-AF8D-65A1E643501C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D38F88-19E2-473D-8ABF-28BE0B82E1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D38F88-19E2-473D-8ABF-28BE0B82E1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D38F88-19E2-473D-8ABF-28BE0B82E1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D38F88-19E2-473D-8ABF-28BE0B82E1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8214D179-A3D9-4643-BDC0-40C3671247BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8214D179-A3D9-4643-BDC0-40C3671247BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8214D179-A3D9-4643-BDC0-40C3671247BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8214D179-A3D9-4643-BDC0-40C3671247BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +63,8 @@ Global
 		{03666A63-623F-4FD9-A5EA-F121FC298530} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 		{B0FB5FDA-B823-47E8-B733-EC6BF9BAC16A} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 		{2E7A6891-56E2-4014-AF8D-65A1E643501C} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
+		{A3D38F88-19E2-473D-8ABF-28BE0B82E1DF} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
+		{8214D179-A3D9-4643-BDC0-40C3671247BC} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {645EF0E5-C728-4387-AA9B-CFD12358CC0E}
