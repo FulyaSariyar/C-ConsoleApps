@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterASCII", "KarakterASCII\KarakterASCII.csproj", "{7B668002-D67E-45A6-8742-7ECC2F923AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarakterASCII", "KarakterASCII\KarakterASCII.csproj", "{7B668002-D67E-45A6-8742-7ECC2F923AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizideTekrarlananElemanlariSilme", "DizideTekrarlananElemanlariSilme\DizideTekrarlananElemanlariSilme.csproj", "{2789006D-B2E1-4825-8940-721169CE03CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApps", "ConsoleApps", "{FAA78B00-3709-4F53-8B9E-A28CF26D25BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,17 @@ Global
 		{7B668002-D67E-45A6-8742-7ECC2F923AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B668002-D67E-45A6-8742-7ECC2F923AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B668002-D67E-45A6-8742-7ECC2F923AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2789006D-B2E1-4825-8940-721169CE03CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2789006D-B2E1-4825-8940-721169CE03CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2789006D-B2E1-4825-8940-721169CE03CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2789006D-B2E1-4825-8940-721169CE03CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B668002-D67E-45A6-8742-7ECC2F923AED} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
+		{2789006D-B2E1-4825-8940-721169CE03CC} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {645EF0E5-C728-4387-AA9B-CFD12358CC0E}
