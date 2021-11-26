@@ -1,0 +1,17 @@
+Tip: Binek Araç ise tutar 100 TL
+
+Ticari Araç ise tutar 150 TL
+
+Yaş: 1-3 yaş ise tutar 1,75 ile çarpılacak
+
+4-7 yaş ise tutar 1,50 ile çarpılacak
+
+7 yaşından büyük ise 1,25 ile çarpılacak
+
+Hacim: 0-1300 arasında ise 2 ile çarpılacak
+
+1300-1600 arasında ise 3 ile çarpılacak
+
+1600- 2000 arasında ise 4 ile çarıpılacak
+
+2000 den büyük ise 5 ile çarpılacak.
