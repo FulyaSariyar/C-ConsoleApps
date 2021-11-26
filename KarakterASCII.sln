@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTVHesapla", "MTVHesapla\MT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertBinaryToDecimal", "ConvertBinaryToDecimal\ConvertBinaryToDecimal.csproj", "{270024A3-922C-4C0F-A70D-8450C9F0B2A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDecimalToBinary", "ConvertDecimalToBinary\ConvertDecimalToBinary.csproj", "{7262ACAE-D954-4724-9DC9-FB2D75A7F868}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{270024A3-922C-4C0F-A70D-8450C9F0B2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{270024A3-922C-4C0F-A70D-8450C9F0B2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{270024A3-922C-4C0F-A70D-8450C9F0B2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7262ACAE-D954-4724-9DC9-FB2D75A7F868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7262ACAE-D954-4724-9DC9-FB2D75A7F868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7262ACAE-D954-4724-9DC9-FB2D75A7F868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7262ACAE-D954-4724-9DC9-FB2D75A7F868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{BE631DAE-8ABA-4154-8B4A-EE78A16D67F4} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 		{4B6A83DA-AE12-4BA1-9CBB-EBC8C8E24A07} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 		{270024A3-922C-4C0F-A70D-8450C9F0B2A3} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
+		{7262ACAE-D954-4724-9DC9-FB2D75A7F868} = {FAA78B00-3709-4F53-8B9E-A28CF26D25BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {645EF0E5-C728-4387-AA9B-CFD12358CC0E}
